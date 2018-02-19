@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OYO Fitness</string>
+    <string name="ImageDesc">OYO Fitness Logo</string>
+    <string name="companyName">OYO Fitness, LLC</string>
+    <string name="addressLabel">Address</string>
+    <string name="address">310 W. 47th st. Suite 201\nKansas City, MO 64112</string>
+    <string name="phone">816-944-3394</string>
+    <string name="desc">OYO is a health club company with facilities for sports, professional fitness, family recreation and spa. Under the Life Time</string>
+    <string name="web">https://www.oyofitness.com</string>
+</resources>
